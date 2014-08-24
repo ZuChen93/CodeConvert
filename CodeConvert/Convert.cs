@@ -154,12 +154,6 @@ namespace CodeConvert
             {
                 MessageBox.Show(e.Message, "Error");
             }
-
-
-
         }
-
-
-
     }
 }
